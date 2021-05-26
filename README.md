@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atilla-to-learn
+- 👋 Hi, I’m @AtillaErsezen
 - 👀 I’m interested in coding applications, learning new things
 - 🌱 I’m currently learning Java(other languages too but especially Java) and other things I need 
 - 💞️ I’m looking to collaborate on ...
